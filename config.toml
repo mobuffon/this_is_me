@@ -20,7 +20,8 @@ enableRobotsTXT = true
 [params]
   favicon = ""
   site_logo = ""
-  description = "A guy like one you have nev"
+  heading = "This is me:"
+  description = "A guy unlike one you have ever met before"
   facebook = ""
   twitter = "https://twitter.com/GoHugoIO"
   instagram = ""
